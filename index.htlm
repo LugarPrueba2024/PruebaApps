@@ -1,2 +1,9 @@
-
-<a href="registrarconductor.html"> Registro de conductor </a>
+<html>
+  <head>
+    <title>
+      tienda de prueba
+    </title>
+  <body>
+    <a href="registrarconductor.html"> Registro de conductor </a>
+  </body>
+<html>
